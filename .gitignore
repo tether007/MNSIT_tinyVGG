@@ -1,0 +1,40 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment / secrets
+.env
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Binaries / archives
+*.exe
+*.dll
+*.so
+*.dylib
+*.zip
+*.tar
+*.gz
+*.7z
+*.jar
+*.class
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+
+# Misc
+*.tmp
